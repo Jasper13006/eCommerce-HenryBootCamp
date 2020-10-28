@@ -13,3 +13,9 @@
 - Utilizar Metodologías Ágiles.
 - Trabajar en equipo.
 
+## Para Ejecutar
+
+1. npm i en la carpeta client.
+2. npm i en la carpeta api.
+3. npm start en la carpeta client.
+4. npm start en la carpeta api.
